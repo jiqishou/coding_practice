@@ -1,5 +1,6 @@
 /*
 给一个array，生产一个新的array，新array中的每个元素都是输入array中除了这个位置之外其他的元素的乘积。
+Linked Phone
 */
 
 public int productExceptSelf(int[] nums) {

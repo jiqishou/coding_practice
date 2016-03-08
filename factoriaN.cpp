@@ -1,5 +1,5 @@
 /*
-求n!
+求n!  twitter phone
 */
 
 int calculate(int n) {
